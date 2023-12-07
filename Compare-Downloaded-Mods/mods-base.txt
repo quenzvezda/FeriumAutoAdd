@@ -1,0 +1,64 @@
+3D Skin Layers
+Apple Skin
+Better Beds
+Better Fps - Render Distance
+Better Ping Display
+Bookshelf
+Carpet
+Carpet Extra
+Chat Heads
+Chime
+clientcommands
+Cloth Config API
+Dark Loading Screen
+DeathLog
+Debugify
+Dynamic FPS
+EasierVillagerTrading
+Enchantment Descriptions
+Enhanced Block Entities
+Entity Collision FPS Fix
+Entity Culling
+Fabric API
+Fabric Language Kotlin
+Fabric Tailor
+Fast Anim by lunade
+Fast Chest
+FerriteCore
+Forge Config API Port
+Forget Me Chunk
+Iceberg
+Indium
+Inventory HUD+
+Inventory Profiles Next
+Iris Shaders
+Item Highlighter
+Jade
+kennytvs-epic-force-close-loading
+krypton
+LambDynamicLights
+LazyDFU
+libIPN
+Litematica
+Litematica Printer
+Lithium
+Malilib
+memoryleakfix
+Minihud
+Mod Menu
+Model Gap Fix
+MoreCulling
+No Fog
+Owo Lib
+Reese's Sodium Options
+Screenshot to Clipboard
+Screenshot Viewer
+Sodium
+Sodium Extra
+Starlight
+tweakeroo
+Xaeros Minimap
+Xaeros World Map
+YetAnotherConfigLib
+Zoomify
+Advancement Plaques

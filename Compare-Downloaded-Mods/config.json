@@ -1,0 +1,705 @@
+{
+  "active_profile": 1,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "Minecraft 1.20",
+      "output_dir": "C:\\Users\\quenz\\AppData\\Roaming\\.minecraft\\mods",
+      "game_version": "1.20",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Better Beds",
+          "identifier": {
+            "ModrinthProject": "kKwy3HU9"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Carpet",
+          "identifier": {
+            "ModrinthProject": "TQTTVgYE"
+          }
+        },
+        {
+          "name": "Carpet Extra",
+          "identifier": {
+            "ModrinthProject": "VX3TgwQh"
+          }
+        },
+        {
+          "name": "Chat Heads",
+          "identifier": {
+            "ModrinthProject": "Wb5oqrBJ"
+          }
+        },
+        {
+          "name": "Chime",
+          "identifier": {
+            "ModrinthProject": "ubxU84eR"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "clientcommands",
+          "identifier": {
+            "ModrinthProject": "7Coz83fv"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "DeathLog",
+          "identifier": {
+            "ModrinthProject": "TPAYeAOc"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "EasierVillagerTrading",
+          "identifier": {
+            "ModrinthProject": "ChscgScW"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "Entity Collision FPS Fix",
+          "identifier": {
+            "ModrinthProject": "GiriLmaY"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Entity Culling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Fabric Tailor",
+          "identifier": {
+            "ModrinthProject": "g8w1NapE"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "FastAnim",
+          "identifier": {
+            "ModrinthProject": "yHf7SALy"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Forge Config API Port [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 547434
+          }
+        },
+        {
+          "name": "ForgetMeChunk",
+          "identifier": {
+            "ModrinthProject": "vRXn3MrA"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Iceberg [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 539382
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Inventory Profiles Next",
+          "identifier": {
+            "ModrinthProject": "O7RBXm3n"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Item Highlighter [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 541578
+          }
+        },
+        {
+          "name": "kennytvs-epic-force-close-loading-screen-mod-for-fabric",
+          "identifier": {
+            "ModrinthProject": "blWBX5n1"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "libIPN",
+          "identifier": {
+            "ModrinthProject": "onSQdWhM"
+          }
+        },
+        {
+          "name": "Litematica",
+          "identifier": {
+            "CurseForgeProject": 308892
+          }
+        },
+        {
+          "name": "Litematica Printer",
+          "identifier": {
+            "ModrinthProject": "3llatzyE"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "MaLiLib",
+          "identifier": {
+            "CurseForgeProject": 303119
+          }
+        },
+        {
+          "name": "Memory Leak Fix",
+          "identifier": {
+            "ModrinthProject": "NRjRiSSD"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "MiniHUD",
+          "identifier": {
+            "CurseForgeProject": 244260
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Model Gap Fix",
+          "identifier": {
+            "ModrinthProject": "QdG47OkI"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "No Fog",
+          "identifier": {
+            "ModrinthProject": "QSzy55SB"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "oωo (owo-lib)",
+          "identifier": {
+            "ModrinthProject": "ccKDOlHs"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Screenshot to Clipboard",
+          "identifier": {
+            "ModrinthProject": "1KiJRrTg"
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Tweakeroo",
+          "identifier": {
+            "CurseForgeProject": 297344
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "ModrinthProject": "1eAoo2KR"
+          }
+        },
+        {
+          "name": "Zoomify",
+          "identifier": {
+            "ModrinthProject": "w7ThoJFB"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minecraft 1.20.1",
+      "output_dir": "C:\\Users\\quenz\\AppData\\Roaming\\.minecraft\\mods",
+      "game_version": "1.20.1",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "Advancement Plaques",
+          "identifier": {
+            "ModrinthProject": "9NM0dXub"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Better Beds",
+          "identifier": {
+            "ModrinthProject": "kKwy3HU9"
+          }
+        },
+        {
+          "name": "Better Fps - Render Distance[Fabric]",
+          "identifier": {
+            "CurseForgeProject": 582640
+          }
+        },
+        {
+          "name": "Better Ping Display [Fabric]",
+          "identifier": {
+            "ModrinthProject": "MS1ZMyR7"
+          }
+        },
+        {
+          "name": "Bookshelf",
+          "identifier": {
+            "CurseForgeProject": 228525
+          }
+        },
+        {
+          "name": "Carpet",
+          "identifier": {
+            "ModrinthProject": "TQTTVgYE"
+          }
+        },
+        {
+          "name": "Carpet Extra",
+          "identifier": {
+            "ModrinthProject": "VX3TgwQh"
+          }
+        },
+        {
+          "name": "Chat Heads",
+          "identifier": {
+            "ModrinthProject": "Wb5oqrBJ"
+          }
+        },
+        {
+          "name": "Chime",
+          "identifier": {
+            "ModrinthProject": "ubxU84eR"
+          }
+        },
+        {
+          "name": "clientcommands",
+          "identifier": {
+            "ModrinthProject": "7Coz83fv"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Cupboard",
+          "identifier": {
+            "CurseForgeProject": 326652
+          }
+        },
+        {
+          "name": "Dark Loading Screen",
+          "identifier": {
+            "ModrinthProject": "h3XWIuzM"
+          }
+        },
+        {
+          "name": "DeathLog",
+          "identifier": {
+            "ModrinthProject": "TPAYeAOc"
+          }
+        },
+        {
+          "name": "Dynamic FPS",
+          "identifier": {
+            "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "EasierVillagerTrading",
+          "identifier": {
+            "ModrinthProject": "ChscgScW"
+          }
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "identifier": {
+            "CurseForgeProject": 250419
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "Entity Culling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "CurseForgeProject": 306612
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
+          }
+        },
+        {
+          "name": "Fabric Tailor",
+          "identifier": {
+            "ModrinthProject": "g8w1NapE"
+          }
+        },
+        {
+          "name": "FastAnim",
+          "identifier": {
+            "ModrinthProject": "yHf7SALy"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Forge Config API Port",
+          "identifier": {
+            "ModrinthProject": "ohNO6lps"
+          }
+        },
+        {
+          "name": "Forge Config API Port [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 547434
+          }
+        },
+        {
+          "name": "Iceberg",
+          "identifier": {
+            "ModrinthProject": "5faXoLqX"
+          }
+        },
+        {
+          "name": "Iceberg [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 539382
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Inventory HUD+",
+          "identifier": {
+            "CurseForgeProject": 357540
+          }
+        },
+        {
+          "name": "Inventory Profiles Next",
+          "identifier": {
+            "ModrinthProject": "O7RBXm3n"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Item Highlighter [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 541578
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "kennytvs-epic-force-close-loading-screen-mod-for-fabric",
+          "identifier": {
+            "ModrinthProject": "blWBX5n1"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "libIPN",
+          "identifier": {
+            "ModrinthProject": "onSQdWhM"
+          }
+        },
+        {
+          "name": "Litematica",
+          "identifier": {
+            "CurseForgeProject": 308892
+          }
+        },
+        {
+          "name": "Litematica Printer",
+          "identifier": {
+            "ModrinthProject": "3llatzyE"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "MaLiLib",
+          "identifier": {
+            "CurseForgeProject": 303119
+          }
+        },
+        {
+          "name": "Memory Leak Fix",
+          "identifier": {
+            "ModrinthProject": "NRjRiSSD"
+          }
+        },
+        {
+          "name": "MiniHUD",
+          "identifier": {
+            "CurseForgeProject": 244260
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Model Gap Fix",
+          "identifier": {
+            "ModrinthProject": "QdG47OkI"
+          }
+        },
+        {
+          "name": "More Culling",
+          "identifier": {
+            "ModrinthProject": "51shyZVL"
+          }
+        },
+        {
+          "name": "No Fog",
+          "identifier": {
+            "ModrinthProject": "QSzy55SB"
+          }
+        },
+        {
+          "name": "oωo (owo-lib)",
+          "identifier": {
+            "ModrinthProject": "ccKDOlHs"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Screenshot to Clipboard",
+          "identifier": {
+            "ModrinthProject": "1KiJRrTg"
+          }
+        },
+        {
+          "name": "Screenshot Viewer",
+          "identifier": {
+            "CurseForgeProject": 693961
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Tweakeroo",
+          "identifier": {
+            "CurseForgeProject": 297344
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "ModrinthProject": "1eAoo2KR"
+          }
+        },
+        {
+          "name": "Zoomify",
+          "identifier": {
+            "ModrinthProject": "w7ThoJFB"
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
